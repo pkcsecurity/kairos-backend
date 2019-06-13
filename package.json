@@ -1,0 +1,28 @@
+{
+  "name": "kairos-backend",
+  "version": "1.0.0",
+  "description": "Kairos is an Ancient Greek word meaning the right, critical, or opportune moment. This app is designed to allow field personnel to easily create a record of their meaningful encounters at the right time, so that they can spend less energy on data entry, and more investing in life change.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkcsecurity/kairos-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkcsecurity/kairos-backend/issues"
+  },
+  "homepage": "https://github.com/pkcsecurity/kairos-backend#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^1.1.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.5",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {}
+}
