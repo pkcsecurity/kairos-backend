@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prague-hackathon",
+  "private_key_id": "9f07cad204d69521ecf59f7d7cfce16b37eb8f1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUcteIv30cUPvu\nvMUsnVCqwnClXPxh7fOmPad21jND1iVOuBEe37nsULams036SYpCr1myIV8OO1+Q\nzgT7LzPElZm7IccXNGJoh2vzrlopHM9jQdpwK7lI0nNWkZeWs4S8YU7b7pxEUC+E\nxanaec5JcUu7IbxPqgAcYDfkh7DqlwWIaYPlBRGa/xpwfWa5+VZL2c7ZlBy1ixHC\nq489ZGcxEarkpc9K5vL3ac+km/S9JcI6An7B8L9ITuJu8UDlr3owKYR2R2IxVO0J\nnLssCV5LlXpIA/X/VpCCY9Ni7zwSMH+a8Kqeok146LKFUUIG9NxhsiRS9YCdFbpl\nLsfVyuetAgMBAAECggEAAQadUkZwTaSWFGCQKioaaZTEWtTqGanILjt7bh4ZDHVB\naD6mKIxBeH/XeL0eJgk+vpmLkJyhpvZGe8+2HA4qp3Akw4ZEKbzpI6MCTLeiYtJ7\nZTkhko4YQCq8rxQ2tqoYPNcdNxldIyGfuVmMPkdT42hD6McTMvNHdFN45H9rdfJy\nqH5ADCVMLweLg7kI67KAPythpSTqsEsILZNv6T2wP+f9pv2AEvR142L0ntfqPVSr\nqnRc4os+/FO2qLrkMIDAOn/jnM/Eim4FUnQVsSI32jzhh1IjQ2rEWTG6Bv1LY6Fl\n3+cXIz5xqqXE1BlMMtjnbkzfYstU8hyc1os9L08D8QKBgQDRxTRqVyodeqGPvTkT\ne0lPBns2MIS9F/TliVqgIriKNV6M2Mm7pI1F4+WcR4Ga0U+wPGe8I1e9NRCj2KVA\nb1oUQ4cn2gQND/evEkj4pomnbbhw38S5FPhF30caivEFj1JA2rvP7RmHIEgETcgn\nVkf08FZt6KifteF8S8jsBENrUQKBgQC1Kf7tXkfqI63ZOSesLmC3t3Rca2/lkS4n\nqp/2aoka1r6boqj/7fB4vApRdkNF6H7UN1+nCd9Na2A4MhAG0SS4CpqQhuBah649\nm63Ck/AvD7SzedSPqDPZelui8jLZ3QGzHXF7S9Sl0UiaWnWM17+/Vb7p7Ued8ED5\n/IahWdznnQKBgDlBem0MHZKuRirVmx6WKAxJ2JeR5qk2QMHmG7ZZw8T1jDklcuqk\nn2rUKXfejKGVQAr6cdYIT4p1UXVnTLOpsQyW4e0etLxb/17pvsEfs7LfX9hvO2LJ\nNnrb1qyIAAFkfS72hQzbynv3c7C5CkiyZDGW6ABX4K63FjS2+sBw6XYBAoGAOnko\nmDLjIVaMyV0iSffaLdIf06i1wDIg5Jq08NMoF6qScSeKRrjk8gM3jV2PjyPgs9x/\nmimckp+CugCmnZyprmF1zApMpcu/WJFD/1bCol3+ZCOBkTCoM5zDsQ9djGZCIy7w\nruwl4bNwLKnf4SrN8BLcASMeB4NBZa61QaUAoR0CgYEAySfIDxjDrsZBjWMkJKHp\ni15jGmjDLKgbQ7VHYQhj9vgJWkeYVwiZI20Jn/ExQablv4ad8LnwWBhGW04iTsQs\nMuM3IYCrA21B6j9xLt/Q+rRSftL71ZVx9Yx6OehS9sSeSzMYn1o3eKYSfMen84h6\nxbQLtNuuKFbixVmOfa4r1D4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kairos@prague-hackathon.iam.gserviceaccount.com",
+  "client_id": "117064112460860829465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kairos%40prague-hackathon.iam.gserviceaccount.com"
+}
