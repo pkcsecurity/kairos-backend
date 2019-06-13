@@ -33,4 +33,4 @@ app.post('/upload', function(req, res) {
 //    res.send('File uploaded!');
   });
 });
-app.listen(port, () => console.log('Server started'));
+app.listen(port, () => console.log('Server started on port' + port));
