@@ -4,6 +4,7 @@ const multer = require('multer');
 const fileUpload = require('express-fileupload');
 const client = new vision.ImageAnnotatorClient();
 const app = express();
+port = process.env.PORT || 80
 app.use(fileUpload());
 
 app.post('/upload', function(req, res) {
@@ -32,4 +33,4 @@ app.post('/upload', function(req, res) {
 //    res.send('File uploaded!');
   });
 });
-app.listen($PORT, () => console.log('Server started'));
+app.listen(port, () => console.log('Server started'));
