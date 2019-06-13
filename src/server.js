@@ -32,4 +32,4 @@ app.post('/upload', function(req, res) {
 //    res.send('File uploaded!');
   });
 });
-app.listen(3000, () => console.log('Server started on port 3000'));
+app.listen($PORT, () => console.log('Server started'));
